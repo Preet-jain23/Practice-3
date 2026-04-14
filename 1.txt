@@ -7,3 +7,10 @@ This is commit 3
 This is commit 4
 
 This is commit 5
+<<<<<<< HEAD
+=======
+
+this is commit 7
+
+This is commiut 9  
+>>>>>>> master
