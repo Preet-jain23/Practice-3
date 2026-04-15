@@ -13,7 +13,10 @@ This is commit 5
 this is commit 7
 
 This is commiut 9  
+<<<<<<< HEAD
 >>>>>>> master
 
 
 This is commit 10
+=======
+>>>>>>> f2893c7 (This is update in the new file)

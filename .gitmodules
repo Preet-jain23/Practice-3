@@ -1,0 +1,6 @@
+[submodule "gitthree/TASK_SCHEDULER"]
+	path = gitthree/TASK_SCHEDULER
+	url = https://github.com/Preet-jain23/TASK_SCHEDULER
+[submodule "TASK_SCHEDULE/TASK"]
+	path = TASK_SCHEDULE/TASK
+	url = https://github.com/Preet-jain23/TASK_SCHEDULER
