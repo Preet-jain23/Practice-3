@@ -1,3 +1,7 @@
-[submodule "TASK1"]
-	path = TASK1
-	url = https://github.com/Preet-jain23/TASK_SCHEDULER.git
+[submodule "TASK_SCHEDULE/TASK"]
+	path = TASK_SCHEDULE/TASK
+	url = https://github.com/Preet-jain23/TASK_SCHEDULER
+
+[submodule "TASK_SCHEDULE/TASK1"]
+	path = TASK_SCHEDULE/TASK1
+	url = https://github.com/Preet-jain23/TASK_SCHEDULER
