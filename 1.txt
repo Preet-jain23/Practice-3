@@ -1,5 +1,7 @@
 This is commit 1
 
+this is commit 12
+
 This is commit 11
 
 This is commit 3
@@ -7,19 +9,14 @@ This is commit 3
 This is commit 4
 
 This is commit 5
-<<<<<<< HEAD
-=======
 
 this is commit 7
 
-This is commiut 9  
-<<<<<<< HEAD
->>>>>>> master
-
+This is commiut 9
 
 This is commit 10
-=======
->>>>>>> f2893c7 (This is update in the new file)
+
 
 
 This is commit 20
+
